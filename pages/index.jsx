@@ -20,7 +20,7 @@ function Home() {
             <p className="description">But you can just call me Temu</p>
 
             <Link href="/contact" className="cta">
-              Kontak Saya
+              Contact Temu
             </Link>
           </div>
 
