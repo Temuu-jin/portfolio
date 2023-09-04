@@ -15,12 +15,9 @@ function Home() {
         <div className="container">
           <div className="text-wrapper">
             <h1 data-test-id="pageTitle" className="title">
-              Halo, saya Lutfhi Ramadhan
+              Hello, my name is Temucin Damdinjamts-Kintaert
             </h1>
-            <p className="description">
-              Saya seorang pekerja lepas pengembang web, fotograper, desainer
-              antarmuka pengguna, dan penulis.
-            </p>
+            <p className="description">But you can just call me Temu</p>
 
             <Link href="/contact" className="cta">
               Kontak Saya
