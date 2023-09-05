@@ -9,7 +9,7 @@ function Contact() {
         <link
           rel="stylesheet"
           href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
-        ></link>
+        />
       </Head>
 
       <Navbar />
@@ -23,26 +23,26 @@ function Contact() {
             <p className="description">
               <a
                 href="https://www.instagram.com/temudgindk/"
-                class="fa fa-instagram"
+                className="fa fa-instagram"
               >
                 Instagram
-              </a>{' '}
-              <br></br>
-              <a href="https://twitter.com/d_temucin" class="fa fa-twitter">
+              </a>
+              <br />
+              <a href="https://twitter.com/d_temucin" className="fa fa-twitter">
                 Twitter
               </a>
-              <br></br>
+              <br />
               <a
                 href="https://www.linkedin.com/in/temucin-damdinjamts-kintaert/"
-                class="fa fa-linkedin"
+                className="fa fa-linkedin"
               >
                 LinkedIn
               </a>
-              <br></br>
-              <a href="https://github.com/Temuu-jin" class="fa fa-github">
+              <br />
+              <a href="https://github.com/Temuu-jin" className="fa fa-github">
                 GitHub
               </a>
-              <br></br>
+              <br />
             </p>
             <ul className="contact-links">
               <li className="contact-item">Email: temucin.d.k@gmail.com</li>
